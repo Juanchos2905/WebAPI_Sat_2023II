@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ReposAPI\\WebAPI_Sat_2023II\\WebAPI_Sat_2023II.csproj": {}
+    "C:\\ReposApi\\WebAPI_Sat_2023II\\WebAPI_Sat_2023II.csproj": {}
   },
   "projects": {
-    "C:\\ReposAPI\\WebAPI_Sat_2023II\\WebAPI_Sat_2023II.csproj": {
+    "C:\\ReposApi\\WebAPI_Sat_2023II\\WebAPI_Sat_2023II.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ReposAPI\\WebAPI_Sat_2023II\\WebAPI_Sat_2023II.csproj",
+        "projectUniqueName": "C:\\ReposApi\\WebAPI_Sat_2023II\\WebAPI_Sat_2023II.csproj",
         "projectName": "WebAPI_Sat_2023II",
-        "projectPath": "C:\\ReposAPI\\WebAPI_Sat_2023II\\WebAPI_Sat_2023II.csproj",
+        "projectPath": "C:\\ReposApi\\WebAPI_Sat_2023II\\WebAPI_Sat_2023II.csproj",
         "packagesPath": "C:\\Users\\juanc\\.nuget\\packages\\",
-        "outputPath": "C:\\ReposAPI\\WebAPI_Sat_2023II\\obj\\",
+        "outputPath": "C:\\ReposApi\\WebAPI_Sat_2023II\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

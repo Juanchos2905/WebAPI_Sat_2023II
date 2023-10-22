@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebAPI_Sat_2023II",
+    "\\WebAPI_Sat_2023II\\Controllers",
+    "\\WebAPI_Sat_2023II\\Domain",
+    "\\WebAPI_Sat_2023II\\Domain\\Interfaces",
+    "\\WebAPI_Sat_2023II\\Domain\\Services"
   ],
-  "SelectedNode": "\\C:\\ReposAPI",
+  "SelectedNode": "\\WebAPI_Sat_2023II\\Domain\\Services\\CountryService.cs",
   "PreviewInSolutionExplorer": false
 }
